@@ -1,2 +1,6 @@
 Hola mundo!!!
+<<<<<<< HEAD
 cambios en testing
+=======
+Cambios en develop
+>>>>>>> develop
